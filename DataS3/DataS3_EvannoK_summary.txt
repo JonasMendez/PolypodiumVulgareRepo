@@ -1,0 +1,84 @@
+
+Retrieving data from files for each K
+Data for K=2:
+mean: -140905.595783333
+standard deviation: 896.070372317826
+median: -140769.5479
+Data for K=3:
+mean: -119832.657866667
+standard deviation: 1532.32484959377
+median: -119113.32065
+Data for K=4:
+mean: -105257.862376667
+standard deviation: 3071.40388857464
+median: -103284.34585
+Data for K=5:
+mean: -95088.068551
+standard deviation: 1012.02675894261
+median: -94516.79009
+Data for K=6:
+mean: -88685.1746186667
+standard deviation: 899.683897924385
+median: -88838.22532
+Data for K=7:
+mean: -84207.2579703333
+standard deviation: 2603.33165036123
+median: -82403.61228
+Data for K=8:
+mean: -81194.6895916667
+standard deviation: 1098.32605945218
+median: -81145.16039
+Data for K=9:
+mean: -79511.160542
+standard deviation: 541.603017799162
+median: -79461.362475
+Data for K=10:
+mean: -78178.5345726667
+standard deviation: 547.756843549649
+median: -78184.15571
+Data for K=11:
+mean: -77120.3969083333
+standard deviation: 455.434432600917
+median: -76973.17773
+Data for K=12:
+mean: -76210.729227
+standard deviation: 462.355764715423
+median: -75999.37892
+Calculating Best K by Evanno..
+
+calculating Ln'(K) for each K..
+Ln'(K=3) = 21072.9379166667
+Ln'(K=4) = 14574.79549
+Ln'(K=5) = 10169.7938256667
+Ln'(K=6) = 6402.89393233332
+Ln'(K=7) = 4477.91664833334
+Ln'(K=8) = 3012.56837866669
+Ln'(K=9) = 1683.52904966664
+Ln'(K=10) = 1332.62596933336
+Ln'(K=11) = 1058.13766433334
+Ln'(K=12) = 909.667681333318
+
+calculating |Ln''(K)| for each K..
+|Ln''(K=3)| = 6498.14242666663
+|Ln''(K=4)| = 4405.00166433338
+|Ln''(K=5)| = 3766.89989333334
+|Ln''(K=6)| = 1924.97728399998
+|Ln''(K=7)| = 1465.34826966665
+|Ln''(K=8)| = 1329.03932900005
+|Ln''(K=9)| = 350.903080333286
+|Ln''(K=10)| = 274.488305000021
+|Ln''(K=11)| = 148.469983000017
+
+calculating Delta K for each K..
+Delta(K=3) = 4.24070811642148
+Delta(K=4) = 1.4341981140024
+Delta(K=5) = 3.72213467682324
+Delta(K=6) = 2.13961513420546
+Delta(K=7) = 0.562874219065911
+Delta(K=8) = 1.21005899619913
+Delta(K=9) = 0.6478972029351
+Delta(K=10) = 0.501113419635698
+Delta(K=11) = 0.325996394589947
+Max Delta K: 4.24070811642148
+Optimal K by Evanno is: 3.
+
