@@ -15,7 +15,7 @@ The data provided here are supplements for the publication: *What is Polypodium 
 
 ### Data S3:
 - **DataS3_CV_errors.txt** - 3.66 KB
-- **DataS3_EvannoK_summary.zip** - 5.02 KB
+- **DataS3_EvannoK_summary.txt** - 5.02 KB
 - **DataS3_loglikelihoods.txt** - 5 KB
 
 ## Description of the Data and File Structure
