@@ -1,5 +1,4 @@
-# Supplementary Data for the Publication: 
-## What is Polypodium vulgare? Discerning Disparate Origins of an Iconic Fern in Europe and Asia
+# Supplementary Data for: What is Polypodium vulgare? Discerning Disparate Origins of an Iconic Fern in Europe and Asia
 
 The data provided here are supplements for the publication: *What is Polypodium vulgare? Discerning disparate origins of an iconic fern in Europe and Asia*.
 
