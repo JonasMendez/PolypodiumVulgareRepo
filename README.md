@@ -10,7 +10,7 @@ The data provided here are supplements for the publication: *What is Polypodium 
 
 ### Data S2:
 - **DataS2_DatasetB_MLPhylogeny.contree** - 5.42 KB
-- **DataS2_DatasetB_MSCPhylogeny.tre** - 9.23 KB
+- **DataS2_DatasetB_MSCPhylogeny.tre** - 5.31 KB
 
 ### Data S3:
 - **DataS3_CV_errors.txt** - 3.66 KB
